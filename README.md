@@ -1,5 +1,4 @@
-# Ultrasonic-Distance-Sensor-Arduino
-Arduino project using HC-SR04 ultrasonic sensor to measure distance and display it on Serial Monitor.
+
 # Ultrasonic Distance Sensor (Arduino)
 
 This project uses an **HC-SR04 ultrasonic sensor** with Arduino to measure distance and display it on the Serial Monitor.
